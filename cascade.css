@@ -1,0 +1,13 @@
+body{
+  font-family : Arial;
+  background : black;
+  color : white;
+  
+}
+.quote {
+  color :  red;
+  border: 1px solid red;
+}
+.imeji{
+  border: 2px solid red;
+}
